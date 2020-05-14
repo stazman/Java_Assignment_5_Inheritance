@@ -1,5 +1,5 @@
 package game;
 
-public class Enemy {
+public class Enemy extends GameObject {
 
 }
